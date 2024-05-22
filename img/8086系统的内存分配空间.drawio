@@ -1,9 +1,36 @@
-<mxfile host="app.diagrams.net" modified="2024-05-22T15:47:08.041Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" version="24.4.6" etag="UWFoQLjLq41gxjmeDhmp" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-22T17:23:52.278Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="Hri9s_8HqvpXRGLFz1ZA" version="24.4.6" type="github">
   <diagram name="第 1 页" id="kKjY93H9U1FhAeCunFEc">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="-DHvaUw_qeKEP-vdF91j-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-DHvaUw_qeKEP-vdF91j-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-DHvaUw_qeKEP-vdF91j-3" value="CPU处理器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-DHvaUw_qeKEP-vdF91j-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-DHvaUw_qeKEP-vdF91j-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-DHvaUw_qeKEP-vdF91j-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-DHvaUw_qeKEP-vdF91j-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-DHvaUw_qeKEP-vdF91j-6" value="地址电路分配" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-DHvaUw_qeKEP-vdF91j-10" value="0XF0000~0XFFFF" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-DHvaUw_qeKEP-vdF91j-12" value="0X00000~0X9FFFF" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
